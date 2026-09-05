@@ -1,0 +1,28 @@
+# PRD — Zetron Consultoria | Portal de Projetos com Clientes
+
+## Resumo
+Portal próprio da Zetron para centralizar acompanhamento de projetos de clientes. O primeiro espaço é o lançamento **Apometria Manto Azul / Regina Hercos**, com go-live em 08/10/2026.
+
+## Problema
+WhatsApp fragmenta decisões, cronograma e aprovações. O cliente precisa saber o que está pronto, o que depende dele e qual é o próximo passo, sem ser exposto à operação interna completa.
+
+## MVP entregue
+- Link privado por projeto, sem senha.
+- Dashboard de status, prazos, bloqueios, decisões, timeline, produtos e entregas.
+- Visão de cliente sem dados internos sensíveis.
+- Projeto Regina pré-carregado a partir do fluxo de lançamento recebido em 05/09.
+
+## Status do lançamento Regina
+- Fase atual: decisões e coleta.
+- Bloqueador: retorno da Regina até 10/09 sobre preço, compliance, Hotmart/dominio e formato do curso.
+- Meta operacional: 30/09.
+- Lançamento: 08/10.
+
+## Próxima evolução
+1. Login por convite para cada cliente.
+2. Banco de dados para projetos, marcos, entregáveis e aprovações.
+3. Área interna Zetron com responsáveis, campanhas e tarefas.
+4. Avisos por WhatsApp/e-mail para itens aguardando cliente.
+
+## Fora de escopo
+Alterar a landing do Manto Azul, checkout, CRM, contratos, dados financeiros ou automação de anúncios.
