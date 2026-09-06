@@ -13,9 +13,9 @@ WhatsApp fragmenta decisões, cronograma e aprovações. O cliente precisa saber
 - Projeto Regina pré-carregado a partir do fluxo de lançamento recebido em 05/09.
 
 ## Entrada unificada
-- A capa institucional da Zetron e a vitrine de projetos ficam no mesmo domínio Railway: `/`.
-- A capa passa a ter a seção `#projetos`, com acesso direto aos workspaces ativos.
-- Cada workspace continua em uma rota do mesmo domínio, como `/regina-8out-2026/`; não haverá outro projeto Railway para essa camada.
+- A capa institucional fica na rota raiz (`/`).
+- Workspaces não aparecem nem são linkados pela landing.
+- Cada workspace continua em uma rota do mesmo domínio Railway, como `/regina-8out-2026/`; não haverá outro projeto Railway para essa camada.
 
 ## Status do lançamento Regina
 - Fase atual: decisões e coleta.
