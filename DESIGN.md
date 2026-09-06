@@ -85,6 +85,7 @@ Componentes interativos usam raio mínimo de 8px; os blocos de projeto preservam
 - Botão primário: abre uma conversa ou um workspace.
 - Botão secundário: navega para uma seção da mesma página.
 - Status pendente: sempre combina cor e texto, como “Aguardando decisões”.
+- Formulário de contato: campos visíveis, rótulos persistentes e foco em ciano; o envio declara quando abre o cliente de e-mail em vez de prometer backend.
 
 ## Do's and Don'ts
 

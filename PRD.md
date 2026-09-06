@@ -17,6 +17,12 @@ WhatsApp fragmenta decisões, cronograma e aprovações. O cliente precisa saber
 - A landing pode apresentar um resumo público de projetos selecionados, sem link para seus workspaces.
 - Cada workspace continua em uma rota do mesmo domínio Railway, como `/regina-8out-2026/`; não haverá outro projeto Railway para essa camada.
 
+## Contato público
+- WhatsApp e telefone: `17997155904`.
+- E-mail: `guilhermeribeiro111@gmail.com`.
+- Formulário estático prepara uma mensagem no aplicativo de e-mail do visitante; não armazena dados nem usa backend.
+- Rodapé deve exibir a razão social e CNPJ fornecidos pelo Gui.
+
 ## Status do lançamento Regina
 - Fase atual: decisões e coleta.
 - Bloqueador: retorno da Regina até 10/09 sobre preço, compliance, Hotmart/dominio e formato do curso.
