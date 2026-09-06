@@ -14,7 +14,7 @@ WhatsApp fragmenta decisões, cronograma e aprovações. O cliente precisa saber
 
 ## Entrada unificada
 - A capa institucional fica na rota raiz (`/`).
-- Workspaces não aparecem nem são linkados pela landing.
+- A landing pode apresentar um resumo público de projetos selecionados, sem link para seus workspaces.
 - Cada workspace continua em uma rota do mesmo domínio Railway, como `/regina-8out-2026/`; não haverá outro projeto Railway para essa camada.
 
 ## Status do lançamento Regina

@@ -52,7 +52,7 @@ components:
 
 ## Overview
 
-A Zetron é uma consultoria estratégica + tecnologia. A interface deve comunicar direção, método e operação real, sem estética sci-fi genérica. A capa é exclusivamente institucional; os workspaces permanecem em rotas próprias do mesmo domínio Railway, sem links na landing.
+A Zetron é uma consultoria estratégica + tecnologia. A interface deve comunicar direção, método e operação real, sem estética sci-fi genérica. A capa pode apresentar resumos públicos de projetos; os workspaces permanecem em rotas próprias do mesmo domínio Railway, sem links na landing.
 
 ## Colors
 
@@ -68,6 +68,7 @@ A Zetron é uma consultoria estratégica + tecnologia. A interface deve comunica
 ## Layout
 
 - Capa institucional exclusivamente na rota `/`.
+- Resumos públicos de projetos podem aparecer na capa sem CTA ou rota para um workspace.
 - Workspaces em rotas internas do mesmo domínio, como `/regina-8out-2026/`, sem navegação pública a partir da capa.
 - No mobile, a navegação mantém a CTA principal.
 
