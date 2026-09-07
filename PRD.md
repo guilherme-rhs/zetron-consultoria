@@ -29,6 +29,14 @@ WhatsApp fragmenta decisões, cronograma e aprovações. O cliente precisa saber
 - Meta operacional: 30/09.
 - Lançamento: 08/10.
 
+## Produto público — Radar Zetron
+- Rota pública: `/scoring-empresas/`.
+- Diagnóstico padronizado da presença digital de empresas em Google Maps, Instagram, Facebook e pontos de conversão.
+- Relatório com nota, pontos fortes, pontos fracos, bio sugerida, descrição sugerida e plano de ação 7/30/60 dias.
+- O playbook e a matriz de pontuação ficam em `PRD-scoring-empresas.md` e devem ser usados em todo diagnóstico para manter consistência.
+- A autoavaliação é informativa; o diagnóstico final depende de validação humana de links e evidências públicas.
+- O briefing público prepara um e-mail e não armazena respostas no site.
+
 ## Próxima evolução
 1. Login por convite para cada cliente.
 2. Banco de dados para projetos, marcos, entregáveis e aprovações.
